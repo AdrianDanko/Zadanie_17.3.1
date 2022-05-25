@@ -1,0 +1,27 @@
+table {
+    border-radius: 8px;
+    border-collapse: collapse;
+    margin-left: 150px;
+}
+
+th,
+td {
+    border-bottom: 1px solid #333;
+}
+
+th{
+    background-color: lightskyblue;
+}
+
+#posty {
+    width: 90%;
+    max-width: 700px;
+    margin: 0 auto;
+    font: .9em/1.2 Arial, Helvetica, sans-serif
+}
+
+.name,
+.email,
+.id {
+    text-align: center;
+}
